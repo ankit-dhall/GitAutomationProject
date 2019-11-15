@@ -9,4 +9,4 @@ My twist to this thing is to implement this in WSL as I'm enthusiastically learn
 Add .my_bash_commands.sh to .bashrc for the function **gitcreate** to be accessible from anywhere in shell
 
 ### Command Format
-`gitcreate <rRepo-Name> <Git-User-Name> <Git-Passoword>`
+`gitcreate <Repo-Name> <Git-User-Name> <Git-Passoword>`
